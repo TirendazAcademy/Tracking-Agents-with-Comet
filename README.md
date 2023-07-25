@@ -5,7 +5,11 @@
 
 Welcome to the **Tracking LangChain Agents with Comet** repo!
 
-This project aims to show how to monitor LLMs experiments. By leveraging Comet's tools, you can easily track your LangChain agents and gain valuable insights throughout your development process. 
+This project aims to show how to monitor LLMs experiments. To run the LLM agent, we used LangChain and OpenAI libraries. By leveraging Comet's tools, we tracked this agent. 
+
+To solve the hallucination, we first collect data with web scraping and then add this data to our LLM model. 
+
+As a result, we obtained a language model that makes better predictions. 
 
 
 
