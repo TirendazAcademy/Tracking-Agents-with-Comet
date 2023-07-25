@@ -10,7 +10,7 @@ To solve the hallucination, we first collect data with web scraping and then add
 ### Install Python Dependencies
 
 1. Open a terminal or command prompt.
-2. Navigate to the directory where runShortGPT.py is located (the cloned repo).
+2. Navigate to the directory where tracking-agents.ipynb is located (the cloned repo).
 3. Execute the following command to install the required Python dependencies: `pip install -r requirements.txt`
 4. This command will install the necessary packages specified in the requirements.txt file.
 
