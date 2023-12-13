@@ -1,5 +1,5 @@
 langchain
 openai
 tiktoken
-comet-ml
+comet_llm
 google-search-results
