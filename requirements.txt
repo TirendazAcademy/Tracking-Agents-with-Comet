@@ -3,3 +3,4 @@ openai
 tiktoken
 comet_llm
 google-search-results
+langchain-openai
